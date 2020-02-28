@@ -3,6 +3,7 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     package="id.ac.polinema.intent"
     >
+    READ_EXTERNAL
 
     <application
         android:allowBackup="true"
